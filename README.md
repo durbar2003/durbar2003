@@ -7,7 +7,7 @@
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: [LinkedIn- @durbar](https://www.linkedin.com/in/durbar-chakrabarty-867395200/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am Film Nerd
+- ⚡ Fun fact: I am a Film Nerd
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=durbar2003&count_private=true&theme=tokyonight&showicons=true)]()
