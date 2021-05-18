@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Web Sockets
 - 🌱 I’m currently learning Vue JS, Tailwind CSS
 - 👯 I’m looking to collaborate on Research Projects
-- 🤔 I’m looking for help with Firewall Authentication
+- 🤔 I’m looking for help with Firebase Authentication
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: [LinkedIn- @durbar](https://www.linkedin.com/in/durbar-chakrabarty-867395200/)
 - 😄 Pronouns: He/His
