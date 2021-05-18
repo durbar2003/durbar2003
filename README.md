@@ -1,5 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Durbar</h1>
 <h3 align="center">scribbling through the white noise</h3>
+<img align="right" width="400" src="./Readme-giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durbar2003&label=Profile%20views&color=0e75b6&style=flat" alt="durbar2003" /> </p>
 
