@@ -5,13 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durbar2003&label=Profile%20views&color=0e75b6&style=flat" alt="durbar2003" /> </p>
 <hr>
 
-- 🔭 I’m currently working on **Web Sockets**
+- 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Vue JS, Tailwind CSS**
+- 🌱 I’m currently learning **FARM Stack, Pytorch, Tensorflow**
 
 - 👯 I’m looking to collaborate on **Research Projects**
-
-- 🤝 I’m looking for help with **Firebase Authentication**
 
 - 💬 Ask me about **MERN Stack**
 
