@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Research Projects**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack, Django, DRF**
 
 - 📫 How to reach me **durbardibyo@gmail.com**
 
