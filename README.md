@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durbar2003&label=Profile%20views&color=0e75b6&style=flat" alt="durbar2003" /> </p>
 <hr>
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working on **Machine Learning, AI, Deep Learning**
 
 - 🌱 I’m currently learning **FARM Stack, Pytorch, Tensorflow**
 
