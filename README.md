@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **durbardibyo@gmail.com**
 
-- ⚡ Fun fact: **I am a Film Nerd**
+- ⚡ Fun fact: **The Cogito is a generational crap**
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
