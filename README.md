@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Research Projects, Open-Source Projects**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **durbardibyo@gmail.com**
 
