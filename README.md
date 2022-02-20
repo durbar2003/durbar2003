@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durbar2003&label=Profile%20views&color=0e75b6&style=flat" alt="durbar2003" /> </p>
 <hr>
 
-- 🔭 I’m currently working on **Machine Learning, Artificial Intelligence, Deep Learning**
+- 🔭 I’m currently working on **Deep Learning, Neural Networks, Image Processing, Bioinformatics**
 
-- 🌱 I’m currently learning **FARM Stack, Pytorch, Tensorflow**
+- 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **Research Projects**
+- 👯 I’m looking to collaborate on **Research Projects, Open-Source Projects**
 
-- 💬 Ask me about **MERN Stack, Django, DRF**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **durbardibyo@gmail.com**
 
