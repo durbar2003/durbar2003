@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, Neural Networks, Image Processing, Geometric Machine Learning, GNN, Bioinformatics**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Trajectory Finding and Particle Tracking using GNNs**
 
 - 👯 I’m looking to collaborate on **Research Projects, Open-Source Projects**
 
