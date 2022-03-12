@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Trajectory Finding and Particle Tracking using GNNs**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Research**
+- 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Projects**
 
 - 💬 Ask me about **Anything**
 
