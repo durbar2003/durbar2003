@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **durbardibyo@gmail.com**
 
-- ⚡ Fun fact: **Cogito is a generational crap**
+- ⚡ Fun fact: **The Cogito is a generational crap**
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
