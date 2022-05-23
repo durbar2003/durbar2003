@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, DevOps, Image Processing, Geometric Machine Learning, GNN, Bioinformatics, Computational Physics Algorithms**
 
-- 🌱 I’m currently learning **ELK Stack**
+- 🌱 I’m currently learning **Cybersecurity, Dask**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Projects**
 
