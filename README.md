@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, DevOps, Image Processing, Geometric Machine Learning, GNN, Bioinformatics, Computational Physics Algorithms**
 
-- 🌱 I’m currently learning **Penetration Testing, Telemetry in Kubernetes Clusters**
+- 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Projects**
 
