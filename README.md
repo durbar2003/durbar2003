@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Projects**
+- 👯 I’m looking to collaborate on **Open-Source Projects**
 
 - 💬 Ask me about **Anything**
 
